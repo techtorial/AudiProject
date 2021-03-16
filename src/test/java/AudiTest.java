@@ -21,6 +21,7 @@ public class AudiTest {
         driver= new ChromeDriver();
         softAssert=new SoftAssert();
         driver.manage().window().maximize();
+        driver.manage().window().maximize();
     }
 
 
