@@ -23,6 +23,7 @@ public class AudiTest {
         driver.manage().window().maximize();
         softAssert=new SoftAssert();
         System.out.println("Soft Assert");
+         System.out.println("Hard Assert");
     }
 
 
