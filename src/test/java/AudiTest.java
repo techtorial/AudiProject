@@ -22,6 +22,7 @@ public class AudiTest {
         softAssert=new SoftAssert();
         driver.manage().window().maximize();
         softAssert=new SoftAssert();
+        System.out.println("Soft Assert");
     }
 
 
