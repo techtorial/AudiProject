@@ -24,6 +24,7 @@ public class AudiTest {
         softAssert=new SoftAssert();
         System.out.println("Soft Assert");
          System.out.println("Hard Assert");
+        System.out.println("Assert Equals");
     }
 
 
